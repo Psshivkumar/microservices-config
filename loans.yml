@@ -1,0 +1,12 @@
+
+build:
+  version: "6.0"
+
+loans:
+  message: "welcome to eazybank loans related local APIs"
+  contactDetails:
+    name: "siddu-developer"
+    email:  "siddu@gmail.com"
+  onCallSupport:
+    - (323) 242-3242
+    - (221) 323-2454

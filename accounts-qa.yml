@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to eazybank accounts related qa APIs"
+  contactDetails:
+    name: "raju-developer"
+    email:  "raju@gmail.com"
+  onCallSupport:
+    - (222) 666-1234
+    - (222) 666-4321

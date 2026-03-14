@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "welcome to eazybank cards related qa APIs"
+  contactDetails:
+    name: "sati-developer"
+    email:  "sati@gmail.com"
+  onCallSupport:
+    - (333) 787-4321
+    - (333) 676-7878

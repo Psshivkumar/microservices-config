@@ -1,0 +1,15 @@
+
+
+
+
+build:
+  version: "9.0"
+
+loans:
+  message: "welcome to eazybank loans related qa APIs"
+  contactDetails:
+    name: "pushpa-developer"
+    email:  "pushpa@gmail.com"
+  onCallSupport:
+    - (434) 123-1234
+    - (433) 623-4321

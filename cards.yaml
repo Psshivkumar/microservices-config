@@ -1,0 +1,13 @@
+
+
+build:
+  version: "4.0"
+
+accounts:
+  message: "welcome to eazybank cards related local APIs"
+  contactDetails:
+    name: "guru-developer"
+    email:  "guru@gmail.com"
+  onCallSupport:
+    - (321) 123-5467
+    - (321) 132-2454

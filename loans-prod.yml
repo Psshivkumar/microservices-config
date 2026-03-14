@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "8.0"
+
+loans:
+  message: "welcome to eazybank loans related prod APIs"
+  contactDetails:
+    name: "sonu-developer"
+    email:  "sonu@gmail.com"
+  onCallSupport:
+    - (232) 324-6543
+    - (323) 324-4565
