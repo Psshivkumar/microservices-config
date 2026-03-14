@@ -6,7 +6,7 @@ accounts:
   message: "welcome to eazybank accounts related prod APIs"
   contactDetails:
     name: "prema-developer"
-    email:  "prema@gmail.com"
+    email:  "{cipher}ae9d940266588c5f95a2c4806f5ffbee0fcd5e3be7efd9c3c4164234f55f1272"
   onCallSupport:
     - (111) 222-1234
     - (111) 222-4321
