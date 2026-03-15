@@ -3,7 +3,7 @@ build:
   version: "7.0"
 
 cards:
-  message: "welcome to eazybank cards related production APIs"
+  message: "welcome to eazybank cards related prod APIs"
   contactDetails:
     name: "us-developer"
     email:  "us@gmail.com"
