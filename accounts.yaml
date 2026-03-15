@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "welcome to eazybank accounts related local APIs"
+  message: "welcome to eazybank accounts related docker APIs"
   contactDetails:
     name: "shivu-developer"
     email:  "shiv@gmail.com"
