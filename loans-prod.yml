@@ -5,7 +5,7 @@ build:
   version: "8.0"
 
 loans:
-  message: "welcome to eazybank loans related production APIs"
+  message: "welcome to eazybank loans related prod APIs"
   contactDetails:
     name: "sonu-developer"
     email:  "sonu@gmail.com"
