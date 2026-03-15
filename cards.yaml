@@ -3,7 +3,7 @@
 build:
   version: "4.0"
 
-accounts:
+cards:
   message: "welcome to eazybank cards related docker APIs"
   contactDetails:
     name: "guru-developer"
