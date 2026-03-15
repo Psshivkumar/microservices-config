@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to eazybank accounts related prod APIs"
+  message: "welcome to eazybank accounts related shivudocker APIs"
   contactDetails:
     name: "prema-developer"
     email:  "{cipher}ae9d940266588c5f95a2c4806f5ffbee0fcd5e3be7efd9c3c4164234f55f1272"
